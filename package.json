@@ -1,0 +1,16 @@
+{
+  "name": "mca-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task.js",
+  "type": "module",
+  "scripts": {
+    "start": "node task.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
